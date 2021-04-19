@@ -1,0 +1,7 @@
+com\org\kris\bankgateway\service\DataProviderServiceImplTest.class
+com\org\kris\bankgateway\controller\BankAccountControllerTest.class
+com\org\kris\bankgateway\domain\EntryTest.class
+com\org\kris\bankgateway\domain\ValidatedDataTest.class
+com\org\kris\bankgateway\domain\IncomingRequestTest.class
+com\org\kris\bankgateway\BankgatewayApplicationTests.class
+com\org\kris\bankgateway\domain\OutgoingRequestTest.class

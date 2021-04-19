@@ -1,0 +1,10 @@
+com\org\kris\bankgateway\configuration\model\Provider.class
+com\org\kris\bankgateway\domain\IncomingRequest.class
+com\org\kris\bankgateway\service\DataProviderService.class
+com\org\kris\bankgateway\configuration\ApplicationConfigProperties.class
+com\org\kris\bankgateway\domain\Entry.class
+com\org\kris\bankgateway\BankgatewayApplication.class
+com\org\kris\bankgateway\controller\BankAccountController.class
+com\org\kris\bankgateway\domain\OutgoingRequest.class
+com\org\kris\bankgateway\domain\ValidatedData.class
+com\org\kris\bankgateway\service\impl\DataProviderServiceImpl.class

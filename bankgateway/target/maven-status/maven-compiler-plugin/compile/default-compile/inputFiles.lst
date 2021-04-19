@@ -1,0 +1,10 @@
+C:\WORKSPACES\TestCodes\bankgateway\src\main\java\com\org\kris\bankgateway\configuration\ApplicationConfigProperties.java
+C:\WORKSPACES\TestCodes\bankgateway\src\main\java\com\org\kris\bankgateway\configuration\model\Provider.java
+C:\WORKSPACES\TestCodes\bankgateway\src\main\java\com\org\kris\bankgateway\domain\ValidatedData.java
+C:\WORKSPACES\TestCodes\bankgateway\src\main\java\com\org\kris\bankgateway\service\DataProviderService.java
+C:\WORKSPACES\TestCodes\bankgateway\src\main\java\com\org\kris\bankgateway\BankgatewayApplication.java
+C:\WORKSPACES\TestCodes\bankgateway\src\main\java\com\org\kris\bankgateway\service\impl\DataProviderServiceImpl.java
+C:\WORKSPACES\TestCodes\bankgateway\src\main\java\com\org\kris\bankgateway\controller\BankAccountController.java
+C:\WORKSPACES\TestCodes\bankgateway\src\main\java\com\org\kris\bankgateway\domain\OutgoingRequest.java
+C:\WORKSPACES\TestCodes\bankgateway\src\main\java\com\org\kris\bankgateway\domain\Entry.java
+C:\WORKSPACES\TestCodes\bankgateway\src\main\java\com\org\kris\bankgateway\domain\IncomingRequest.java
